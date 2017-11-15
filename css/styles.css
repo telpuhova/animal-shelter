@@ -1,0 +1,30 @@
+body {
+  background: url("../img/bg.jpg");
+  /*background-size: contain;
+  background-repeat: no-repeat;*/
+}
+.column {
+  background-color: #aee1f2;
+  float: left;
+  width: 24%;
+  border: 1px #000 solid;
+}
+.column h3 {
+  text-align: center;
+}
+.column p {
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 1.4;
+}
+.column img {
+  display: block;
+  margin: auto;
+}
+h1 {
+  font-size: 45px;
+}
+h2 {
+  text-align: center;
+  font-weight: 100;
+}
