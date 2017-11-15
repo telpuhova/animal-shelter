@@ -1,7 +1,5 @@
 body {
   background: url("../img/bg.jpg");
-  /*background-size: contain;
-  background-repeat: no-repeat;*/
 }
 .column {
   background-color: #aee1f2;
@@ -34,13 +32,11 @@ h2 {
     width: 33%;
   }
 }
-
 @media screen and (max-width: 780px) and (min-width: 600px) {
   .column {
     width: 49.5%;
   }
 }
-
 @media screen and (max-width: 600px){
   .column {
     width: 99%;
