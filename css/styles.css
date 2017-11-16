@@ -1,11 +1,19 @@
 body {
   background: url("../img/bg.jpg");
+  background-position: 0px 850px;
+  background-repeat: no-repeat;
 }
+
+img {
+  width: 225px;
+}
+
 .column {
-  background-color: #aee1f2;
+  background-color: #d9e0e2;
   float: left;
-  width: 24%;
+  width: 23%;
   border: 1px #000 solid;
+  margin-right: 15px;
 }
 .column h3 {
   text-align: center;
@@ -29,12 +37,12 @@ h2 {
 
 @media screen and (max-width: 1050px) and (min-width: 780px) {
   .column {
-    width: 33%;
+    width: 30%;
   }
 }
 @media screen and (max-width: 780px) and (min-width: 600px) {
   .column {
-    width: 49.5%;
+    width: 47%;
   }
   h1 {
     font-size: 35px;
