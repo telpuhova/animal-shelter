@@ -1,18 +1,24 @@
-# _animal-shelter_
+# animal-shelter
 
-#### _A website for an animal shelter, 11/14/2017_
+A website for an animal shelter, 11/14/2017
 
-#### By _**telpuhova**_
+**By Natalia Telpukhova**
 
 https://telpuhova.github.io/animal-shelter/
 
+## Description
+
+Animal shelter website with media query.
+
 ## Setup
 
-* _clone repository_
-* _Open index.html in browser_
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
 
-_HTML,CSS, Bootstrap_
+HTML,CSS, Bootstrap
 
-Copyright (c) 2017 **_telpuhova_**
+### License
+
+Copyright (c) 2017 Natalia Telpukhova
